@@ -1,0 +1,22 @@
+body {
+    background-color: #cdc2c2;
+    font-family: Arial;
+    font-size: 13px;
+    margin: 40px;
+}
+
+h3 {
+    color: #ed1919;
+    margin-bottom: 5px;
+}
+
+
+p {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+input, select, textarea {
+    font-family: Arial;
+    font-size: 12px;
+}
